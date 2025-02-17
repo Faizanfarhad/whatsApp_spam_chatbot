@@ -1,0 +1,5 @@
+2025/02/17-20:07:14.993 4 Reusing MANIFEST /home/faizan/Projects/chrome-data/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/17-20:07:15.001 4 Recovering log #8
+2025/02/17-20:07:15.011 4 Level-0 table #10: started
+2025/02/17-20:07:15.022 4 Level-0 table #10: 15980 bytes OK
+2025/02/17-20:07:15.032 4 Delete type=0 #8

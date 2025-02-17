@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": ["/media/LAPCARE/env/lib/python3.12/site-packages"],
+    "python.defaultInterpreterPath": "/media/LAPCARE/env/bin/activate",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
